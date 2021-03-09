@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: blelm
+Build-Jdk: 11.0.10
+Main-Class: com.nasa.mars.ApplicationMars
+Created-By: Maven Integration for Eclipse
+
